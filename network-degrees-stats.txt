@@ -1,0 +1,12 @@
+Movie degree statistics:
+avg degree: 8.547932960893855
+median degree: 7.0
+min degree: 1
+max degree: 131
+
+Actor degree statistics:
+avg degree: 5.4135295782621
+median degree: 4.0
+min degree: 3
+max degree: 50
+
